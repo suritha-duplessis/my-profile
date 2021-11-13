@@ -1,0 +1,79 @@
+body {
+  background-color: #FEF9EF;
+  color: #000D6B;
+  font-family: Courier;
+  font-size: 16px;
+}
+
+h2{color: #9C19E0;
+    font-size:26px;
+    font-weight: bold;
+  }
+
+h1{font-size: 32px;
+    color: #091353;
+    <style: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+</style>
+  }
+
+
+h3{font-color: #9C19E0;
+  font-size: 20px;
+}
+
+a{text-decoration: none;
+  color: #99DDCC;
+  font-weight: bold;
+  font-size: 12px;
+  }
+
+a:hover {color: black;
+  text-decoration: underline;
+  }
+
+img{width: 100px;
+    height: 100px;
+}
+
+.img-cats{border-radius: 50%;
+  box-shadow: 5px 5px 3px #9C19E0;
+}
+
+
+
+/*costum design with class*/
+
+.box{text-align: center;
+  width: 700px;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+}
+
+.button-blue{background-color: #99DDCC;
+  color:  white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  }
+
+.list-inline{list-style: none;
+  padding-left: 0px;
+  }
+
+.list-hobbies{list-style: none;
+  padding-left:  0px;
+  }
+
+.list-inline{display: inline;
+  padding: 10px;
+  }
+
+#banner p{margin-bottom: 40px;
+}
+
+#politics p{margin-bottom: 40px;
+}
+
+#footer h3{margin-bottom: 40px;
+}
